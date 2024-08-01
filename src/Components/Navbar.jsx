@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="bg-[#12161D]  shadow-sm shadow-[#5694FE] border-b border-[#5694FE] border-dashed p-2">
       <div className="container mx-auto flex justify-between items-center">
-        <div className="text-white text-xl font-bold pl-[5vw]">KwaniX Flow</div>
+        <div className="text-white text-xl font-bold pl-[5vw]">ComponentAI</div>
         <div className="flex items-center space-x-4">
           <div className="relative">
             <input
